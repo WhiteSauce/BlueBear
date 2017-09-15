@@ -1,5 +1,5 @@
 # BlueBear
-A YouTube enhancement tweak and it's totally FREE!
+A YouTube enhancement tweak and it's totally FREE! \n
 Made using Logos.
 
 To-do:
