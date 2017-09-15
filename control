@@ -1,0 +1,10 @@
+Package: bluebear.ws
+Name: BlueBear for YouTube
+Depends: mobilesubstrate,  firmware (>= 9.0), preferenceloader
+Version: 2.1.1
+Architecture: iphoneos-arm
+Description: A YouTube enhancer of sorts. Completely FREE!
+Homepage: http://twitter.com/WhiteSauce
+Maintainer: WhiteSauce
+Author: WhiteSauce
+Section: Tweaks

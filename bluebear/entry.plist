@@ -1,0 +1,10 @@
+{
+    entry = {
+	bundle = bluebear;
+	cell = PSLinkCell;
+	detail = bluebearListController;
+	icon = BlueBear.png;
+	isController = 1;
+	label = BlueBear;
+    };
+}

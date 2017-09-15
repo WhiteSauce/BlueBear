@@ -1,0 +1,227 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>items</key>
+	<array>
+		<dict>
+			<key>cell</key>
+			<string>PSGroupCell</string>
+			<key>label</key>
+			<string>Video</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSSwitchCell</string>
+			<key>default</key>
+			<false/>
+			<key>defaults</key>
+			<string>bluebear.ws</string>
+			<key>key</key>
+			<string>adultRes</string>
+			<key>label</key>
+			<string>Disable Adult Restriction</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSSwitchCell</string>
+			<key>default</key>
+			<false/>
+			<key>defaults</key>
+			<string>bluebear.ws</string>
+			<key>key</key>
+			<string>noAds</string>
+			<key>label</key>
+			<string>Block Advertisements</string>
+		</dict>
+		<dict>
+			<key>action</key>
+			<string>double</string>
+			<key>cell</key>
+			<string>PSSwitchCell</string>
+			<key>default</key>
+			<false/>
+			<key>defaults</key>
+			<string>bluebear.ws</string>
+			<key>key</key>
+			<string>doubleTap</string>
+			<key>label</key>
+			<string>Disable Double Tap</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSSwitchCell</string>
+			<key>default</key>
+			<false/>
+			<key>defaults</key>
+			<string>bluebear.ws</string>
+			<key>key</key>
+			<string>background</string>
+			<key>label</key>
+			<string>Enable Video Backgrounding</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSGroupCell</string>
+			<key>label</key>
+			<string>User Interface</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSSwitchCell</string>
+			<key>default</key>
+			<false/>
+			<key>defaults</key>
+			<string>bluebear.ws</string>
+			<key>key</key>
+			<string>autocorrect</string>
+			<key>label</key>
+			<string>Enable Auto-Correct</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSSwitchCell</string>
+			<key>default</key>
+			<false/>
+			<key>defaults</key>
+			<string>bluebear.ws</string>
+			<key>key</key>
+			<string>blackStatus</string>
+			<key>label</key>
+			<string>Black StatusBar</string>
+		</dict>
+		<dict>
+			<key>action</key>
+			<string>clean</string>
+			<key>cell</key>
+			<string>PSSwitchCell</string>
+			<key>default</key>
+			<false/>
+			<key>defaults</key>
+			<string>bluebear.ws</string>
+			<key>key</key>
+			<string>clean</string>
+			<key>label</key>
+			<string>Clean Video UI</string>
+		</dict>
+		<dict>
+			<key>action</key>
+			<string>mini</string>
+			<key>cell</key>
+			<string>PSSwitchCell</string>
+			<key>default</key>
+			<false/>
+			<key>defaults</key>
+			<string>bluebear.ws</string>
+			<key>key</key>
+			<string>classic</string>
+			<key>label</key>
+			<string>Mini UI</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSSwitchCell</string>
+			<key>default</key>
+			<false/>
+			<key>defaults</key>
+			<string>bluebear.ws</string>
+			<key>key</key>
+			<string>prediction</string>
+			<key>label</key>
+			<string>Force Predictive Text Bar</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSSwitchCell</string>
+			<key>default</key>
+			<false/>
+			<key>defaults</key>
+			<string>bluebear.ws</string>
+			<key>key</key>
+			<string>removeDL</string>
+			<key>label</key>
+			<string>Disable Save Button</string>
+		</dict>
+		<dict>
+			<key>action</key>
+			<string>vertical</string>
+			<key>cell</key>
+			<string>PSSwitchCell</string>
+			<key>default</key>
+			<false/>
+			<key>defaults</key>
+			<string>bluebear.ws</string>
+			<key>key</key>
+			<string>verticalEvery</string>
+			<key>label</key>
+			<string>Force Vertical Option</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSSwitchCell</string>
+			<key>default</key>
+			<false/>
+			<key>defaults</key>
+			<string>bluebear.ws</string>
+			<key>key</key>
+			<string>whiteKeys</string>
+			<key>label</key>
+			<string>White Keyboard</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSGroupCell</string>
+			<key>label</key>
+			<string>Support</string>
+		</dict>
+		<dict>
+			<key>action</key>
+			<string>GitHub</string>
+			<key>cell</key>
+			<string>PSButtonCell</string>
+			<key>icon</key>
+			<string>GitHub.png</string>
+			<key>label</key>
+			<string>Want to Help? Contribute!</string>
+		</dict>
+		<dict>
+			<key>action</key>
+			<string>PayPal</string>
+			<key>cell</key>
+			<string>PSButtonCell</string>
+			<key>icon</key>
+			<string>PayPal.png</string>
+			<key>label</key>
+			<string>Donate? Anything Helps!</string>
+		</dict>
+		<dict>
+			<key>action</key>
+			<string>Twitter</string>
+			<key>cell</key>
+			<string>PSButtonCell</string>
+			<key>icon</key>
+			<string>Twitter.png</string>
+			<key>label</key>
+			<string>Follow Me! Please?</string>
+		</dict>
+		<dict>
+			<key>action</key>
+			<string>Info</string>
+			<key>cell</key>
+			<string>PSLinkCell</string>
+			<key>icon</key>
+			<string>Info.png</string>
+			<key>label</key>
+			<string>Info</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSGroupCell</string>
+			<key>label</key>
+			<string>BlueBear © 2017 (WhiteSauce)</string>
+		</dict>
+	</array>
+	<key>title</key>
+	<string>BlueBear</string>
+</dict>
+</plist>
